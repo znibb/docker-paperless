@@ -1,7 +1,7 @@
 Document management using paperless-ngx hosted via Docker Compose
 
 This setup assumes that you're already running:
-  - A [Traefik reverse-proxy](https://github.com/znibb/docker-traefik)
+  - A [Traefik](https://github.com/znibb/docker-traefik) reverse-proxy
   - An [Authentik](https://github.com/znibb/docker-authentik) Identity Provider
 
 **Table of contents**
