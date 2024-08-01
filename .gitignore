@@ -1,6 +1,6 @@
+.env
 data/*/*
 !data/*/.gitkeep
 !data/media/logo/paperless-ngx.png
 secrets/*
 !secrets/.gitkeep
-.env
