@@ -1,6 +1,6 @@
 services:
   paperless:
-    image: ghcr.io/paperless-ngx/paperless-ngx:latest
+    image: paperlessngx/paperless-ngx:latest
     container_name: paperless
     restart: unless-stopped
     secrets:
